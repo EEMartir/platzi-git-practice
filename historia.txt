@@ -3,3 +3,5 @@ Este es un texto plano. Estos son los primeros cambios.
 Cambios despues del commit. 
 
 ESTE ES EL ÚLTIMO COMMIT. 
+
+probando git reset --hard
